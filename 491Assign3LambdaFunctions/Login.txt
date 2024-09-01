@@ -1,0 +1,79 @@
+import json
+import boto3
+import hmac
+import base64
+import hashlib
+
+
+#Login Page
+
+
+
+# Contains the identifier of an Amazon Cognito user pool. A user pool is a directory in Amazon Cognito that enables you to create and manage users who can access your...
+# ... web or mobile application
+USER_POOL_ID = 'us-east-2_0ir40QsU8'
+# An identifier for an Amazon Cognito app client that can authenticate and authorize users against a user pool.
+CLIENT_ID = '3abqghm14irg2j115092keiju7' 
+# In Amazon Cognito, is a confidential key that is used to authenticate and authorize requests from the app client to the user pool
+# When an app client requests an access token or a refresh toke, it must provide both CLIENT_ID and CLIENT_SECRET
+CLIENT_SECRET = '1gp5nl9ndu3rhnjavhl6k367qctapfv7iq0osscncst4v40fdg79' 
+
+
+
+# Likely used in the context of user authentication and authorization for an Amazon Cognito user pool
+# Prevents certain attacks
+def getsecrethash(username):
+    msg = username + CLIENT_ID
+    #msg = username + ClIENT_ID
+    dig = hmac.new(str(CLIENT_SECRET).encode('utf-8'), msg = str(msg).encode('utf-8'), digestmod=hashlib.sha256).digest()
+    d2 = base64.b64encode(dig).decode()
+    return d2
+
+
+
+
+def lambda_handler(event, context):
+    exceptionstr = ''
+    exception = False
+    # Extracts data from a HTTP Post request
+    data = json.loads(event['body'])
+    username = data["username"]
+    password = data["password"]
+    
+    
+    # The way to access the client to cognito
+    client = boto3.client("cognito-idp")
+    
+    e = None
+    
+    
+    print(f"{username} and {password}")
+    
+    # Attempts to sign up a client for a service
+    try:
+        # Tries to create an authenticationn flow for a user
+        response = client.admin_initiate_auth(UserPoolId=USER_POOL_ID, ClientId=CLIENT_ID, AuthFlow="ADMIN_NO_SRP_AUTH", AuthParameters={"USERNAME":username, "PASSWORD":password, "SECRET_HASH":getsecrethash(username)})
+    
+    except Exception as e:
+        exception = True
+        exceptionstr = str(e);
+        print("exceptionstr: ", exceptionstr);
+        
+    
+    
+    # TODO implement
+    if exception == False:
+        return {
+            'statusCode': 200,
+            'body': json.dumps({
+                "message": "Login Successful!"
+            })
+        }
+    else:
+        return {
+            'statusCode': 500,
+            'body': json.dumps({
+                "message": exceptionstr
+            })
+        }
+        

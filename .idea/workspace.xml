@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d747260-4a1f-418a-8bd8-de44951977a6" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/androidTest/java/com/example/assignment1_jkeyser/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/java/com/example/assignment1_jkeyser/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/java/com/example/assignment1_jkeyser/MainActivity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/java/com/example/assignment1_jkeyser/MainActivity3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/layout/activity_main3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/app/src/test/java/com/example/assignment1_jkeyser/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4_JKeyser/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/androidTest/java/com/example/assignment2_jkeyser3/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/java/com/example/assignment2_jkeyser3/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/java/com/example/assignment2_jkeyser3/MapsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/layout/fragment_maps.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/app/src/test/java/com/example/assignment2_jkeyser3/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_JKeyser4/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lTnmxF52HQEIUe4DCWAjTp6TZs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Owner/Desktop/wow_folder&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d747260-4a1f-418a-8bd8-de44951977a6" name="Changes" comment="" />
+      <created>1725213096621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725213096621</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1725213255382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725213255382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1725214061078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725214061078</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
